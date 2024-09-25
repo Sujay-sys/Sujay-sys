@@ -2,7 +2,6 @@
 - 👀 I’m interested in learning about coding and exploring
 - 🌱 I’m currently learning C,JS,python & SQL
 - 💞️ I’m looking to collaborate on OSS
-- 😄 Pronouns: ...
 - ⚡ Fun fact: I m a musician and artist as well
 
 <!---
