@@ -1,10 +1,28 @@
-- 👋 Hi, I’m @Sujay-sys
-- 👀 I’m interested in learning about coding and exploring
-- 🌱 I’m currently learning C,JS,python & SQL
-- 💞️ I’m looking to collaborate on OSS
-- ⚡ Fun fact: I m a musician and artist as well
+# 👋 Hi, I'm Sujay Acharya
 
-<!---
-Sujay-sys/Sujay-sys is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I am a passionate **Software Engineer** dedicated to building intelligent, efficient, and data-driven applications. I bridge the gap between logical problem-solving and creative engineering, continuously expanding my skill set across full-stack development and automation.
+
+---
+
+### 🛠️ Tech Stack & Skills
+
+* **Languages:** Python, JavaScript, SQL, C, Java
+* **Specializations:** AI Integrations (Groq API), Data Analytics, Scripting & Automation, Web Development
+* **Tools & Frameworks:** Git, GitHub, Jupyter Notebook, Pillow (Image Processing)
+
+---
+
+### 🚀 Featured Projects
+
+* **[Jarvis](https://github.com/Sujay-sys/Jarvis):** A futuristic AI assistant powered by Groq API, featuring voice commands, speech responses, and visual data explanations.
+* **[Student Performance Analytics](https://github.com/Sujay-sys/Student-Performance-Analytics-Prediction-System):** A comprehensive machine learning workflow that cleans data and builds a logistic regression model to predict academic outcomes.
+* **[Image Processing Pipeline](https://github.com/Sujay-sys/Image-processing-using-python-libraries):** A compact Python project demonstrating image transformations, filters, and grayscale conversions using Pillow.
+
+---
+
+### 🤝 Let's Collaborate!
+
+I am actively looking to contribute to **Open Source Software (OSS)** and collaborate on impactful technology. 
+
+* 📬 **Reach out via Email:** [sujayacharya189@gmail.com](mailto:sujayacharya189@gmail.com)
+* ⚡ **Fun Fact:** Outside of writing code, I am an active musician and visual artist, blending creativity into everything I build.
